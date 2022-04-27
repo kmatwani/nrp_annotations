@@ -1,26 +1,34 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Mar 16 12:53:24 2021
 
-@author: kmatw
-"""
+Program:    combined_seqs1.py
+File:       combined_seqs1.py 
 
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Mar 15 19:00:58 2021
+Version:    v2.0
+Created on: Fri Mar 12 2021 10:16:55
+Edited on:  Wed Apr 27 2022
+Other edits:Mar 15, Mar 16
 
-@author: kmatw
-"""
+Author:     Khushboo Matwani
 
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Mar 12 10:16:55 2021
+------------------------------------------------------------------------------------
 
-@author: kmatw
+Description:
+
+Uses the merge_ids output file and FASTA files from different protein domain searches to 
+create a new FASTA file with redundant sequences removed. The function cannot change headers.   
+
+Inputs:
+
+Files in a FASTA format (up to 4). 
+
+
+
 """
 
 ## making a dictionary from a FASTA help from  
 ##https://stackoverflow.com/questions/35635709/how-do-i-make-a-dictionary-out-of-a-collection-of-fasta
+
 
 from collections import defaultdict
 import sys 
