@@ -26,10 +26,10 @@ python extracthit_id.py domain_name file.txt
 
 import sys 
 
-#command line inputs 
+#command line inputs x should be the domain name; y should be the filename (FASTA format)
 x = sys.argv[1]
 y = sys.argv[2] 
-#functions separates header phrases, choosing the id and printing it with the domain name
+#function identifies the header, separates it based on spaces, and returns the id and the domain name. 
 def extractHitID(domain_name, hit_file):
     
     f1 = open(hit_file, 'r')
