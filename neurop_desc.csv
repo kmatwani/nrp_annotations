@@ -1,0 +1,963 @@
+Pan troglodytes,chimpanzee,9598
+Homo sapiens,human,9606
+Mandrillus leucophaeus,drill,9568
+Macaca nemestrina,pig-tailed macaque,9545
+Hylobates moloch,silvery gibbon,81572
+Nomascus leucogenys,northern white-cheeked gibbon,61853
+synthetic construct,NA,32630
+Macaca fascicularis,crab-eating macaque,9541
+Cercocebus atys,sooty mangabey,9531
+Macaca mulatta,Rhesus monkey,9544
+Theropithecus gelada,gelada,9565
+Microcebus murinus,gray mouse lemur,30608
+Propithecus coquereli,Coquerel's sifaka,379532
+Gorilla gorilla gorilla,western lowland gorilla,9595
+Pongo abelii,Sumatran orangutan,9601
+Chlorocebus sabaeus,green monkey,60711
+Callithrix jacchus,white-tufted-ear marmoset,9483
+Cebus imitator,Panamanian white-faced capuchin,2715852
+Sapajus apella,Tufted capuchin,9515
+Marmota monax,woodchuck,9995
+Urocitellus parryii,Arctic ground squirrel,9999
+Dipodomys ordii,Ord's kangaroo rat,10020
+Marmota marmota marmota,Alpine marmot,9994
+Ictidomys tridecemlineatus,thirteen-lined ground squirrel,43179
+Aotus nancymaae,Ma's night monkey,37293
+Carlito syrichta,Philippine tarsier,1868482
+Marmota flaviventris,yellow-bellied marmot,93162
+Pteropus alecto,black flying fox,9402
+Hyaena hyaena,striped hyena,95912
+Pteropus vampyrus,large flying fox,132908
+Ovis aries,sheep,9940
+Tupaia chinensis,Chinese tree shrew,246437
+Colobus angolensis palliatus,NA,336983
+Bubalus bubalis,water buffalo,89462
+Bos indicus,zebu cattle,9915
+Bos mutus,wild yak,72004
+Ailuropoda melanoleuca,giant panda,9646
+Ursus arctos horribilis,NA,116960
+Heterocephalus glaber,naked mole-rat,10181
+Bos taurus,cattle,9913
+Bison bison bison,NA,43346
+Ursus maritimus,polar bear,29073
+Capra hircus,goat,9925
+Enhydra lutris kenyoni,NA,391180
+Lontra canadensis,Northern American river otter,76717
+Castor canadensis,American beaver,51338
+Odocoileus virginianus texanus,NA,9880
+Otolemur garnettii,small-eared galago,30611
+Odobenus rosmarus divergens,Pacific walrus,9708
+Callorhinus ursinus,northern fur seal,34884
+Phoca vitulina,harbor seal,9720
+Lynx pardinus,Spanish lynx,191816
+Balaenoptera acutorostrata scammoni,NA,310752
+Saimiri boliviensis boliviensis,Bolivian squirrel monkey,39432
+Lipotes vexillifer,Yangtze River dolphin,118797
+Acinonyx jubatus,cheetah,32536
+Lynx canadensis,Canada lynx,61383
+Felis catus,domestic cat,9685
+Mesocricetus auratus,golden hamster,10036
+Orcinus orca,killer whale,9733
+Fukomys damarensis,Damara mole-rat,885580
+Piliocolobus tephrosceles,Ugandan red Colobus,591936
+Muntiacus muntjak,muntjak,9888
+Myotis brandtii,Brandt's bat,109478
+Leptonychotes weddellii,Weddell seal,9713
+Muntiacus reevesi,Reeves' muntjac,9886
+Mirounga leonina,Southern elephant seal,9715
+Mustela putorius furo,domestic ferret,9669
+Myotis myotis,NA,51298
+Crocuta crocuta,spotted hyena,9678
+Myotis davidii,NA,225400
+Puma concolor,puma,9696
+Rhinopithecus bieti,black snub-nosed monkey,61621
+Mustela erminea,ermine,36723
+Neomonachus schauinslandi,Hawaiian monk seal,29088
+Rhinopithecus roxellana,golden snub-nosed monkey,61622
+Canis lupus familiaris,dog,9615
+Canis lupus dingo,dingo,286419
+Rhinolophus ferrumequinum,greater horseshoe bat,59479
+Oryctolagus cuniculus,rabbit,9986
+Phocoena sinus,vaquita,42100
+Mus caroli,Ryukyu mouse,10089
+Mus pahari,shrew mouse,10093
+Mus musculus,house mouse,10090
+Neophocaena asiaeorientalis asiaeorientalis,Yangtze finless porpoise,1706337
+Equus asinus,ass,9793
+Orycteropus afer afer,NA,1230840
+Panthera tigris altaica,Amur tiger,74533
+Chinchilla lanigera,long-tailed chinchilla,34839
+Desmodus rotundus,common vampire bat,9430
+Delphinapterus leucas,beluga whale,9749
+Trachypithecus francoisi,Francois's langur,54180
+Suricata suricatta,meerkat,37032
+Globicephala melas,long-finned pilot whale,9731
+Cricetulus griseus,Chinese hamster,10029
+Cavia porcellus,domestic guinea pig,10141
+Vulpes vulpes,red fox,9627
+Rousettus aegyptiacus,Egyptian rousette,9407
+Equus caballus,horse,9796
+Hipposideros armiger,great roundleaf bat,186990
+Monodon monoceros,narwhal,40151
+Artibeus jamaicensis,Jamaican fruit-eating bat,9417
+Miniopterus natalensis,NA,291302
+Mastomys coucha,southern multimammate mouse,35658
+Lagenorhynchus obliquidens,Pacific white-sided dolphin,90247
+Sousa chinensis,Indo-pacific humpbacked dolphin,103600
+Sus scrofa,pig,9823
+Onychomys torridus,southern grasshopper mouse,38674
+Eptesicus fuscus,big brown bat,29078
+Octodon degus,degu,10160
+Physeter catodon,sperm whale,9755
+Sturnira hondurensis,NA,192404
+Peromyscus maniculatus bairdii,prairie deer mouse,230844
+Peromyscus leucopus,white-footed mouse,10041
+Condylura cristata,star-nosed mole,143302
+Loxodonta africana,African savanna elephant,9785
+Ceratotherium simum simum,southern white rhinoceros,73337
+Choloepus didactylus,southern two-toed sloth,27675
+Galeopterus variegatus,Sunda flying lemur,482537
+Sorex araneus,European shrew,42254
+Phyllostomus discolor,pale spear-nosed bat,89673
+Equus przewalskii,Przewalski's horse,9798
+Jaculus jaculus,lesser Egyptian jerboa,51337
+Manis pentadactyla,Chinese pangolin,143292
+Pipistrellus kuhlii,Kuhl's pipistrelle,59472
+Manis javanica,Malayan pangolin,9974
+Arvicanthis niloticus,African grass rat,61156
+Talpa occidentalis,Iberian mole,50954
+Grammomys surdaster,NA,491861
+Myotis lucifugus,little brown bat,59463
+Trichechus manatus latirostris,Florida manatee,127582
+Microtus ochrogaster,prairie vole,79684
+Meriones unguiculatus,Mongolian gerbil,10047
+Arvicola amphibius,Eurasian water vole,1047088
+Chrysochloris asiatica,Cape golden mole,185453
+Molossus molossus,Pallas's mastiff bat,27622
+Nannospalax galili,Upper Galilee mountains blind mole rat,1026970
+Dasypus novemcinctus,nine-banded armadillo,9361
+Rattus rattus,black rat,10117
+Rattus norvegicus,Norway rat,10116
+Echinops telfairi,small Madagascar hedgehog,9371
+Elephantulus edwardii,Cape elephant shrew,28737
+Ochotona princeps,American pika,9978
+Pan paniscus,pygmy chimpanzee,9597
+Camelus dromedarius,Arabian camel,9838
+Camelus ferus,Wild Bactrian camel,419612
+Vicugna pacos,alpaca,30538
+Camelus bactrianus,Bactrian camel,9837
+Erinaceus europaeus,western European hedgehog,9365
+Neotoma lepida,desert woodrat,56216
+Trichosurus vulpecula,common brushtail,9337
+Vombatus ursinus,common wombat,29139
+Sarcophilus harrisii,Tasmanian devil,9305
+Phascolarctos cinereus,koala,38626
+Monodelphis domestica,gray short-tailed opossum,13616
+Cervus elaphus hippelaphus,NA,46360
+Tachyglossus aculeatus,Australian echidna,9261
+Ornithorhynchus anatinus,platypus,9258
+Cervus hanglu yarkandensis,Yarkand deer,84702
+Mesitornis unicolor,brown roatelo,54374
+Merops nubicus,carmine bee-eater,57421
+Phaethon lepturus,White-tailed tropicbird,97097
+Amazona aestiva,blue-fronted amazon,12930
+Chelonia mydas,Green sea turtle,8469
+Acanthisitta chloris,rifleman,57068
+Fulmarus glacialis,Northern fulmar,30455
+Tinamus guttatus,white-throated tinamou,94827
+Anser cygnoides domesticus,NA,381198
+Cygnus atratus,black swan,8868
+Anthoscopus minutus,NA,156561
+Apteryx mantelli mantelli,NA,202946
+Semnornis frantzii,NA,91796
+Pomatostomus ruficeps,chestnut-crowned babbler,9176
+Dromaius novaehollandiae,emu,8790
+Struthio camelus australis,NA,441894
+Pterocles gutturalis,yellow-throated sandgrouse,240206
+Rhinopomastus cyanomelas,common scimitar-bill,113115
+Apaloderma vittatum,bar-tailed trogon,57397
+Platysternon megacephalum,big-headed turtle,55544
+Trachemys scripta elegans,NA,31138
+Chaetura pelagica,chimney swift,8897
+Dryoscopus gambensis,NA,85069
+Limosa lapponica baueri,NA,1758121
+Cuculus canorus,common cuckoo,55661
+Chrysemys picta bellii,western painted turtle,8478
+Balearica regulorum gibbericeps,East African grey crowned-crane,100784
+Anas platyrhynchos,mallard,8839
+Chloroceryle aenea,American pygmy kingfisher,176938
+Neopelma chrysocephalum,saffron-crested tyrant-manakin,114329
+Oxyura jamaicensis,ruddy duck,8884
+Aythya fuligula,tufted duck,219594
+Myiagra hebetior,NA,381031
+Apteryx rowi,Okarito brown kiwi,308060
+Prunella fulvescens,Brown accentor,670355
+Erythrura gouldiae,Gouldian finch,44316
+Melospiza melodia maxima,NA,2498840
+Gopherus evgoodei,Goodes thornscrub tortoise,1825980
+Buceros rhinoceros silvestris,NA,175836
+Zapornia atra,NA,2585822
+Chelonoidis abingdonii,Abingdon island giant tortoise,106734
+Corvus moneduloides,New Caledonian crow,1196302
+Podiceps cristatus,great crested grebe,345573
+Cariama cristata,Red-legged seriema,54380
+Eubucco bourcierii,red-headed barbet,91767
+Haliaeetus leucocephalus,bald eagle,52644
+Dyaphorophyia castanea,NA,1160851
+Rhinoptilus africanus,double-banded courser,240209
+Dermochelys coriacea,leatherback sea turtle,27794
+Aptenodytes forsteri,emperor penguin,9233
+Eurypyga helias,sunbittern,54383
+Coturnix japonica,Japanese quail,93934
+Furnarius figulus,NA,463165
+Corvus brachyrhynchos,American crow,85066
+Lanius ludovicianus,NA,28713
+Daphoenositta chrysoptera,varied sittella,254528
+Chroicocephalus maculipennis,brown-hooded gull,287016
+Scytalopus superciliaris,NA,312124
+Sagittarius serpentarius,NA,56258
+Grallaria varia,variegated antpitta,117165
+Rynchops niger,black skimmer,227184
+Calypte anna,Anna's hummingbird,9244
+Aegotheles bennettii,NA,48278
+Leucopsar rothschildi,NA,127929
+Jacana jacana,wattled jacana,54508
+Panurus biarmicus,NA,181101
+Sapayoa aenigma,broad-billed sapayoa,239371
+Columba livia,rock pigeon,8932
+Serilophus lunatus,silver-breasted broadbill,239386
+Pygoscelis adeliae,Adelie penguin,9238
+Amazona guildingii,NA,175529
+Tauraco erythrolophus,red-crested turaco,121530
+Athene cunicularia,burrowing owl,194338
+Hydrobates tethys,Wedge-rumped storm-petrel,79633
+Rhipidura dahli,NA,667186
+Thinocorus orbignyianus,NA,161742
+Strigops habroptila,Kakapo,2489341
+Serinus canaria,Common canary,9135
+Melopsittacus undulatus,budgerigar,13146
+Gavia stellata,red-throated loon,37040
+Nestor notabilis,Kea,176057
+Certhia brachydactyla,short-toed tree-creeper,73330
+Eulacestoma nigropectus,wattled ploughbill,461239
+Leptosomus discolor,cuckoo roller,188344
+Thalassarche chlororhynchos,Atlantic yellow-nosed albatross,54017
+Dicrurus megarhynchus,NA,450177
+Cathartes aura,turkey vulture,43455
+Picoides pubescens,Downy woodpecker,118200
+Aramus guarauna,limpkin,54356
+Probosciger aterrimus,palm cockatoo,141839
+Cettia cetti,NA,68486
+Molothrus ater,NA,84834
+Atrichornis clamosus,NA,449594
+Numida meleagris,helmeted guineafowl,8996
+Calidris pugnax,ruff,198806
+Setophaga kirtlandii,Kirtland's warbler,298831
+Charadrius vociferus,killdeer,50402
+Empidonax traillii,willow flycatcher,164674
+Opisthocomus hoazin,NA,30419
+Nyctiprogne leucopyga,NA,382315
+Anseranas semipalmata,magpie goose,8851
+Tyto alba alba,NA,507980
+Ciconia maguari,NA,52777
+Phalacrocorax carbo,great cormorant,9209
+Piprites chloris,white-winged piprites,114369
+Vidua macroura,NA,187451
+Ficedula albicollis,Collared flycatcher,59894
+Oxyruncus cristatus,sharpbill,114331
+Pitta sordida,hooded pitta,9163
+Pardalotus punctatus,spotted pardalote,254575
+Machaerirhynchus nigripectus,NA,1160894
+Rhynochetos jubatus,kagu,54386
+Psophia crepitans,common trumpeter,54359
+Peucedramus taeniatus,olive warbler,135441
+Nyctibius grandis,NA,48427
+Quiscalus mexicanus,Great-tailed grackle,64278
+Aptenodytes patagonicus,king penguin,9234
+Zonotrichia albicollis,white-throated sparrow,44394
+Aquila chrysaetos chrysaetos,NA,223781
+Rhagologus leucostigma,NA,156170
+Chauna torquata,southern screamer,30388
+Pelecanus crispus,Dalmatian pelican,36300
+Oriolus oriolus,Eurasian golden-oriole,181099
+Ifrita kowaldi,blue-capped ifrita,461245
+Dasyornis broadbenti,rufous bristle-bird,243059
+Buphagus erythrorhynchus,red-billed oxpecker,245048
+Ploceus nigricollis,NA,441696
+Dromas ardeola,NA,458190
+Patagioenas fasciata monilis,NA,372326
+Balaeniceps rex,shoebill,33584
+Camarhynchus parvulus,NA,87175
+Heliornis fulica,sungrebe,54369
+Struthidea cinerea,NA,181839
+Calonectris borealis,Cory's shearwater,1323832
+Gallus gallus,chicken,9031
+Cephalopterus ornatus,amazonian umbrellabird,114276
+Baryphthengus martii,NA,176943
+Mohoua ochrocephala,NA,874463
+Urocynchramus pylzowi,NA,571890
+Glareola pratincola,NA,43316
+Larus smithsonianus,American herring gull,243888
+Pteruthius melanotis,NA,357074
+Piaya cayana,squirrel cuckoo,33601
+Cepphus grylle,NA,28697
+Colinus virginianus,northern bobwhite,9014
+Stercorarius parasiticus,NA,54059
+Eudyptula minor,Little blue penguin,37083
+Rissa tridactyla,black-legged kittiwake,75485
+Spheniscus mendiculus,Galapagos penguin,156760
+Smithornis capensis,NA,363769
+Penelope pileata,NA,1118817
+Pygoscelis antarcticus,chinstrap penguin,79643
+Origma solitaria,NA,720586
+Phoenicopterus ruber ruber,NA,9218
+Rhegmatorhina hoffmannsi,white-breasted antbird,468512
+Chloropsis cyanopogon,NA,1218682
+Catharus fuscescens,veery,159581
+Parus major,Great Tit,9157
+Mystacornis crossleyi,NA,98133
+Cardinalis cardinalis,northern cardinal,98964
+Rhabdornis inornatus,NA,237438
+Sturnus vulgaris,Common starling,9172
+Egretta garzetta,little egret,188379
+Zosterops borbonicus,NA,364589
+Cnemophilus loriae,Loria's bird-of-paradise,254448
+Aleadryas rufinucha,rufous-naped whistler,461220
+Aphelocoma coerulescens,scrub jay,39617
+Certhia familiaris,Eurasian tree-creeper,73333
+Climacteris rufus,rufous treecreeper,47695
+Halcyon senegalensis,NA,342381
+Meleagris gallopavo,turkey,9103
+Trogon melanurus,black-tailed trogon,56311
+Podilymbus podiceps,NA,9252
+Pandion haliaetus,NA,56262
+Caloenas nicobarica,Nicobar pigeon,187106
+Notiomystis cincta,NA,366454
+Turdus rufiventris,rufous-bellied thrush,311356
+Spizaetus tyrannus,black hawk-eagle,252798
+Nothocercus nigrocapillus,NA,1977171
+Bucorvus abyssinicus,Abyssinian ground-hornbill,153643
+Himantopus himantopus,black-winged stilt,225398
+Oceanites oceanicus,Wilson's storm-petrel,79653
+Fregetta grallaria,white-bellied storm-petrel,79628
+Lonchura striata domestica,Bengalese finch,299123
+Loxia leucoptera,NA,96539
+Alligator mississippiensis,American alligator,8496
+Melanocharis versteri,Fan-tailed berrypecker,254552
+Gymnorhina tibicen,Australian magpie,9132
+Thryothorus ludovicianus,Carolina wren,74200
+Neopipo cinnamomea,NA,456388
+Fregata magnificens,NA,37042
+Rhodinocichla rosea,NA,58203
+Hippolais icterina,icterine warbler,68497
+Sula dactylatra,NA,56068
+Orthonyx spaldingii,northern chowchilla,38397
+Menura novaehollandiae,superb lyrebird,47692
+Onychorhynchus coronatus,NA,360224
+Bombycilla garrulus,NA,125297
+Falcunculus frontatus,Eastern shriketit,254539
+Malurus elegans,Red-winged fairywren,720584
+Pachyramphus minor,NA,369605
+Motacilla alba,white wagtail,45807
+Taeniopygia guttata,zebra finch,59729
+Nothoprocta pentlandii,NA,2585814
+Circaetus pectoralis,black-chested snake-eagle,321084
+Picathartes gymnocephalus,NA,175131
+Ardeotis kori,NA,89386
+Eudyptula novaehollandiae,Australian little penguin,2052820
+Pycnonotus jocosus,red-whiskered bulbul,182897
+Chaetorhynchus papuensis,pygmy drongo,254446
+Nothoprocta ornata,NA,83376
+Geospiza fortis,medium ground-finch,48883
+Chaetops frenatus,Rufous rock-jumper,221966
+Spheniscus magellanicus,Magellanic penguin,37081
+Pelecanoides urinatrix,NA,37079
+Spheniscus humboldti,Humboldt's penguin,9240
+Ptilorrhoa leucosticta,NA,449384
+Poecile atricapillus,Black-capped chickadee,48891
+Haliaeetus albicilla,white-tailed eagle,8969
+Sylvia borin,garden warbler,73324
+Urocolius indicus,NA,458196
+Nyctibius bracteatus,Rufous potoo,48426
+Lophotis ruficrista,NA,172689
+Alligator sinensis,Chinese alligator,38654
+Eudyptes schlegeli,Royal penguin,57240
+Uria aalge,common murre,13746
+Lepidothrix coronata,blue-crowned manakin,321398
+Nycticryphes semicollaris,NA,227226
+Pelodiscus sinensis,Chinese soft-shelled turtle,13735
+Crotophaga sulcirostris,groove-billed ani,33598
+Polioptila caerulea,NA,66707
+Vidua chalybeata,NA,81927
+Rhadina sibilatrix,NA,2585818
+Aegithalos caudatus,Northern long-tailed tit,73327
+Drymodes brunneopygia,NA,626378
+Pygoscelis papua,Gentoo penguin,30457
+Alectura lathami,australian brush-turkey,81907
+Oreotrochilus melanogaster,NA,689266
+Lamprotornis superbus,NA,245042
+Nipponia nippon,crested ibis,128390
+Casuarius casuarius,southern cassowary,8787
+Spizella passerina,chipping sparrow,40210
+Hirundo rustica rustica,NA,333673
+Corythaixoides concolor,grey go-away-bird,103956
+Oreocharis arfaki,tit berrypecker,979223
+Agelaius phoeniceus,red-winged blackbird,39638
+Ramphastos sulfuratus,NA,322582
+Copsychus sechellarum,NA,797021
+Gavialis gangeticus,Gharial,94835
+Pheucticus melanocephalus,NA,371919
+Manacus vitellinus,golden-collared manakin,328815
+Erythrocercus mccallii,NA,107208
+Nothocercus julius,NA,2585813
+Crocodylus porosus,Australian saltwater crocodile,8502
+Herpetotheres cachinnans,NA,56343
+Chiroxiphia lanceolata,lance-tailed manakin,296741
+Cisticola juncidis,NA,52622
+Alopecoenas beccarii,Western bronze ground-dove,262131
+Hylia prasina,green hylia,208073
+Nothoprocta perdicaria,NA,30464
+Mionectes macconnelli,McConnell's flycatcher,254557
+Edolisoma coerulescens,NA,2585810
+Oenanthe oenanthe,Northern wheatear,279966
+Sakesphorus luctuosus,NA,419690
+Columbina picui,picui ground-dove,115618
+Galbula dea,NA,1109041
+Nesospiza acunhae,NA,381881
+Cercotrichas coryphoeus,Karoo scrub-robin,614051
+Cinclus mexicanus,NA,161649
+Callaeas wilsoni,North Island kokako,1347786
+Vireo altiloquus,black-whiskered vireo,34956
+Loxia curvirostra,NA,64802
+Crypturellus soui,NA,458187
+Crypturellus undulatus,NA,48396
+Centropus unirufus,NA,1118519
+Calcarius ornatus,NA,198940
+Terrapene carolina triunguis,Three-toed box turtle,2587831
+Podargus strigoides,tawny frogmouth,8905
+Asarcornis scutulata,NA,75869
+Chunga burmeisteri,Black-legged seriema,1352770
+Formicarius rufipectus,NA,1118560
+Upupa epops,Eurasian hoopoe,57439
+Irena cyanogastra,fairy bluebird,175120
+Python bivittatus,Burmese python,176946
+Phasianus colchicus,Ring-necked pheasant,9054
+Acrocephalus arundinaceus,great reed warbler,39621
+Anhinga anhinga,American anhinga,56067
+Mesembrinibis cayennensis,NA,1118748
+Erithacus rubecula,European robin,37610
+Paradoxornis webbianus,NA,337173
+Pluvianellus socialis,magellanic plover,227228
+Indicator maculatus,spotted honeyguide,545262
+Alcedo cyanopectus,Indigo-banded kingfisher,390723
+Alaudala cheleensis,Asian short-toed lark,670337
+Zosterops hypoxanthus,NA,2485327
+Tricholaema leucomelas,pied barbet,240729
+Promerops cafer,Cape sugarbird,254652
+Sterrhoptilus dennistouni,NA,2585820
+Sylvia atricapilla,blackcap,48155
+Melospiza melodia,song sparrow,44397
+Locustella ochotensis,Middendorff's grasshopper-warbler,187437
+Leptocoma aspasia,NA,2585812
+Turnix velox,Little buttonquail,2529409
+Leiothrix lutea,red-billed leiothrix,36275
+Eudromia elegans,elegant crested-tinamou,8805
+Gekko japonicus,NA,146911
+Cochlearius cochlearius,boat-billed heron,110676
+Passerina amoena,NA,142471
+Phainopepla nitens,NA,161653
+Prunella himalayana,NA,670356
+Sylvietta virens,Green crombec,208069
+Hirundo rustica,Barn swallow,43150
+Donacobius atricapilla,NA,237420
+Brachypodius atriceps,black-headed bulbul,182895
+Chloropsis hardwickii,NA,667144
+Motacilla alba alba,NA,1094192
+Falco peregrinus,peregrine falcon,8954
+Spelaeornis formosus,spotted wren-babbler,1463973
+Pomatorhinus ruficollis,streak-breasted scimitar babbler,932028
+Regulus satrapa,golden-crowned kinglet,13245
+Psilopogon haemacephalus,NA,2585815
+Corvus cornix cornix,NA,932674
+Catharus ustulatus,Swainson's thrush,91951
+Bucco capensis,collared puffbird,135168
+Microcaecilia unicolor,NA,1415580
+Chionis minor,black-faced sheathbill,227182
+Dicaeum eximium,NA,667154
+Cyanistes caeruleus,blue tit,156563
+Varanus komodoensis,Komodo dragon,61221
+Pseudopodoces humilis,Tibetan ground-tit,181119
+Pogona vitticeps,central bearded dragon,103695
+Zootoca vivipara,common lizard,8524
+Anolis carolinensis,green anole,28377
+Lacerta agilis,NA,80427
+Geotrypetes seraphini,NA,260995
+Protobothrops mucrosquamatus,NA,103944
+Rhinatrema bivittatum,two-lined caecilian,194408
+Notechis scutatus,mainland tiger snake,8663
+Thamnophis sirtalis,NA,35019
+Crotalus tigris,NA,88082
+Paroedura picta,NA,143630
+Xenopus laevis,African clawed frog,8355
+Xenopus tropicalis,tropical clawed frog,8364
+Thamnophis elegans,Western terrestrial garter snake,35005
+Podarcis muralis,Common wall lizard,64176
+Pantherophis guttatus,NA,94885
+Pseudonaja textilis,NA,8673
+Nanorana parkeri,NA,125878
+Papio anubis,olive baboon,9555
+Antrostomus carolinensis,chuck-will's-widow,279965
+Latimeria chalumnae,coelacanth,7897
+Ophiophagus hannah,king cobra,8665
+Chlamydotis macqueenii,Macqueen's bustard,187382
+Thalassophryne amazonica,NA,390379
+Lepisosteus oculatus,spotted gar,7918
+Acipenser ruthenus,sterlet,7906
+Colius striatus,speckled mousebird,57412
+Lucifuga dentata,toothed Cuban cusk-eel,670423
+Cyprinus carpio,common carp,7962
+Carassius auratus,goldfish,7957
+Austrofundulus limnaeus,NA,52670
+Scleropages formosus,Asian bonytongue,113540
+Etheostoma spectabile,orangethroat darter,54343
+Hippoglossus hippoglossus,Atlantic halibut,8267
+Kryptolebias marmoratus,mangrove rivulus,37003
+Gambusia affinis,western mosquitofish,33528
+Sander lucioperca,pikeperch,283035
+Micropterus salmoides,largemouth bass,27706
+Etheostoma cragini,Arkansas darter,417921
+Sphaeramia orbicularis,orbiculate cardinalfish,375764
+Callipepla squamata,scaled quail,9009
+Betta splendens,Siamese fighting fish,158456
+Stegastes partitus,bicolor damselfish,144197
+Amphiprion ocellaris,clown anemonefish,80972
+Acanthochromis polyacanthus,spiny chromis,80966
+Perca fluviatilis,European perch,8168
+Sparus aurata,gilthead seabream,8175
+Colossoma macropomum,tambaqui,42526
+Liparis tanakae,Tanaka's snailfish,230148
+Pygocentrus nattereri,red-bellied piranha,42514
+Labrus bergylta,ballan wrasse,56723
+Nematolebias whitei,Rio pearlfish,451745
+Monopterus albus,swamp eel,43700
+Channa argus,northern snakehead,215402
+Gouania willdenowi,blunt-snouted clingfish,441366
+Salarias fasciatus,jewelled blenny,181472
+Paramormyrops kingsleyae,NA,1676925
+Oncorhynchus mykiss,rainbow trout,8022
+Notolabrus celidotus,New Zealand spotty,1203425
+Anarrhichthys ocellatus,wolf-eel,433405
+Seriola lalandi dorsalis,NA,1841481
+Seriola dumerili,greater amberjack,41447
+Megalops cyprinoides,Indo-Pacific tarpon,118141
+Lates calcarifer,barramundi perch,8187
+Myripristis murdjan,pinecone soldierfish,586833
+Syngnathus acus,greater pipefish,161584
+Coregonus sp. 'balchen',NA,861768
+Perca flavescens,yellow perch,8167
+Parambassis ranga,Indian glassy fish,210632
+Trematomus bernacchii,emerald rockcod,40690
+Collichthys lucidus,big head croaker,240159
+Mastacembelus armatus,zig-zag eel,205130
+Nothobranchius furzeri,turquoise killifish,105023
+Notothenia coriiceps,black rockcod,8208
+Pseudochaenichthys georgianus,South Georgia icefish,52239
+Danio rerio,zebrafish,7955
+Boleophthalmus pectinirostris,great blue-spotted mudskipper,150288
+Echeneis naucrates,live sharksucker,173247
+Archocentrus centrarchus,flier cichlid,63155
+Epinephelus lanceolatus,giant grouper,310571
+Scophthalmus maximus,turbot,52904
+Gymnodraco acuticeps,NA,8218
+Dicentrarchus labrax,European seabass,13489
+Larimichthys crocea,large yellow croaker,215358
+Cyclopterus lumpus,lumpfish,8103
+Xiphophorus hellerii,green swordtail,8084
+Astyanax mexicanus,Mexican tetra,7994
+Paralichthys olivaceus,Japanese flounder,8255
+Morone saxatilis,striped sea-bass,34816
+Acanthopagrus latus,yellowfin seabream,8177
+Gadus morhua,Atlantic cod,8049
+Takifugu flavidus,sansaifugu,433684
+Pungitius pungitius,ninespine stickleback,134920
+Poecilia mexicana,NA,48701
+Poecilia formosa,Amazon molly,48698
+Sebastes umbrosus,honeycomb rockfish,72105
+Poecilia latipinna,sailfin molly,48699
+Electrophorus electricus,electric eel,8005
+Sinocyclocheilus grahami,NA,75366
+Esox lucius,northern pike,8010
+Labeo rohita,rohu,84645
+Xiphophorus couchianus,Monterrey platyfish,32473
+Xiphophorus maculatus,southern platyfish,8083
+Anabas testudineus,climbing perch,64144
+Poecilia reticulata,guppy,8081
+Periophthalmus magnuspinnatus,NA,409849
+Hippocampus comes,tiger tail seahorse,109280
+Pimephales promelas,fathead minnow,90988
+Oryzias latipes,Japanese medaka,8090
+Oncorhynchus tshawytscha,Chinook salmon,74940
+Salvelinus alpinus,Arctic char,8036
+Oncorhynchus nerka,sockeye salmon,8023
+Chanos chanos,milkfish,29144
+Cyprinodon variegatus,sheepshead minnow,28743
+Cyprinodon tularosa,NA,77115
+Cottoperca gobio,NA,56716
+Fundulus heteroclitus,mummichog,8078
+Oncorhynchus kisutch,coho salmon,8019
+Salvelinus namaycush,lake trout,8040
+Cynoglossus semilaevis,tongue sole,244447
+Ameiurus melas,black bullhead,219545
+Tetraodon nigroviridis,spotted green pufferfish,99883
+Oncorhynchus keta,chum salmon,8018
+Tachysurus fulvidraco,yellow catfish,1234273
+Pundamilia nyererei,NA,303518
+Haplochromis burtoni,Burton's mouthbrooder,8153
+Ictalurus punctatus,channel catfish,7998
+Pangasianodon hypophthalmus,striped catfish,310915
+Astatotilapia calliptera,eastern happy,8154
+Oreochromis aureus,NA,47969
+Oreochromis niloticus,Nile tilapia,8128
+Salmo salar,Atlantic salmon,8030
+Takifugu rubripes,torafugu,31033
+Salmo trutta,river trout,8032
+Neolamprologus brichardi,NA,32507
+Onychostoma macrolepis,NA,369639
+Oryzias javanicus,javanese ricefish,123683
+Silurus meridionalis,NA,175797
+Denticeps clupeoides,denticle herring,299321
+Clarias magur,NA,1594786
+Triplophysa tibetana,NA,1572043
+Polypterus senegalus,gray bichir,55291
+Oryzias melastigma,Indian medaka,30732
+Dissostichus mawsoni,Antarctic toothfish,36200
+Danionella translucida,NA,623744
+Rhincodon typus,whale shark,259920
+Chiloscyllium punctatum,brownbanded bambooshark,137246
+Clupea harengus,Atlantic herring,7950
+Erpetoichthys calabaricus,reedfish,27687
+Anguilla anguilla,European eel,7936
+Scyliorhinus canicula,smaller spotted catshark,7830
+Bagarius yarrelli,goonch,175774
+Maylandia zebra,zebra mbuna,106582
+Hippoglossus stenolepis,Pacific halibut,195615
+Sinocyclocheilus anshuiensis,NA,1608454
+Callorhinchus milii,elephant shark,7868
+Amblyraja radiata,thorny skate,386614
+Scyliorhinus torazame,cloudy catshark,75743
+Takifugu bimaculatus,NA,433685
+Sinocyclocheilus rhinocerous,NA,307959
+Anabarilius grahami,NA,495550
+Balaenoptera musculus,Blue whale,9771
+Panthera pardus,leopard,9691
+Halichoerus grypus,gray seal,9711
+Tursiops truncatus,common bottlenose dolphin,9739
+Falco rusticolus,gyrfalcon,120794
+Pipra filicauda,Wire-tailed manakin,649802
+Zalophus californianus,California sea lion,9704
+Petromyzon marinus,sea lamprey,7757
+Lithobates catesbeianus,American bullfrog,8400
+Branchiostoma belcheri,Belcher's lancelet,7741
+Acropora digitifera,NA,70779
+Lingula anatina,NA,7574
+Orbicella faveolata,NA,48498
+Ibidorhyncha struthersii,NA,425643
+Acropora millepora,NA,45264
+Stylophora pistillata,NA,50429
+Falco cherrug,Saker falcon,345164
+Nematostella vectensis,starlet sea anemone,45351
+Anneissia japonica,NA,1529436
+Ceuthmochares aereus,NA,1961834
+Patiria miniata,bat star,46514
+Eurystomus gularis,NA,325343
+Pterocles burchelli,NA,2585816
+Geococcyx californianus,NA,8947
+Lottia gigantea,owl limpet,225164
+Hypocryptadius cinnamomeus,NA,589841
+Branchiostoma floridae,Florida lancelet,7739
+Grus americana,Whooping crane,9117
+Eudyptes sclateri,Erect-crested penguin,92688
+Centropus bengalensis,lesser coucal,1463675
+Pecten maximus,NA,6579
+Ciccaba nigrolineata,NA,1118524
+Actinia tenebrosa,Australian red waratah sea anemone,6105
+Exaiptasia diaphana,NA,2652724
+Alca torda,razorbill,28689
+Toxostoma redivivum,NA,99882
+Pocillopora damicornis,NA,46731
+Mytilus coruscus,NA,42192
+Trichoplax sp. H2,NA,287889
+Ciona intestinalis,vase tunicate,7719
+Sclerurus mexicanus,tawny-throated leaftosser,265632
+Pedionomus torquatus,plains-wanderer,227192
+Trichoplax adhaerens,NA,10228
+Spheniscus demersus,jackass penguin,92683
+Eudyptes filholi,Southern rockhopper penguin,1419345
+Campylorhamphus procurvoides,NA,190295
+Eudyptes moseleyi,Northern rockhopper penguin,2495534
+Strongylocentrotus purpuratus,purple sea urchin,7668
+Ptilonorhynchus violaceus,satin bowerbird,28724
+Nicator chloris,NA,237433
+Biomphalaria glabrata,NA,6526
+Burhinus bistriatus,NA,240201
+Arenaria interpres,ruddy turnstone,54971
+Glaucidium brasilianum,ferruginous pygmy-owl,78217
+Crassostrea gigas,Pacific oyster,29159
+Rostratula benghalensis,greater painted-snipe,118793
+Tachuris rubrigastra,NA,495162
+Hemiprocne comata,NA,243314
+Mizuhopecten yessoensis,Yesso scallop,6573
+Tyrannus savana,Fork-tailed flycatcher,137541
+Eudyptes chrysolophus,Macaroni penguin,79627
+Megadyptes antipodes antipodes,NA,2517240
+Crassostrea virginica,eastern oyster,6565
+Brachypteracias leptosomus,short-legged ground-roller,135165
+Emberiza fucata,NA,337179
+Steatornis caripensis,oilbird,48435
+Sitta europaea,wood nuthatch,50251
+Bambusicola thoracicus,Chinese bamboo-partridge,9083
+Erpornis zantholeuca,NA,1112836
+Syrrhaptes paradoxus,Pallas's sandgrouse,302527
+Illadopsis cleaveri,blackcap illadopsis,201329
+Pachycephala philippinensis,yellow-belllied whistler,449367
+Eudyptes pachyrhynchus,Fiordland penguin,37080
+Eudyptula albosignata,White-flippered penguin,345258
+Phaetusa simplex,large-billed tern,297813
+Eolophus roseicapillus,galah,176039
+Tichodroma muraria,NA,237442
+Penaeus vannamei,Pacific white shrimp,6689
+Atlantisia rogersi,Inaccessible Island rail,2478892
+Grantiella picta,NA,266360
+Brachionus plicatilis,NA,10195
+Bugula neritina,NA,10212
+Dendronephthya gigantea,NA,151771
+Aplysia californica,California sea hare,6500
+Chordeiles acutipennis,lesser nighthawk,118183
+Xiphorhynchus elegans,elegant woodcreeper,269412
+Orussus abietinus,NA,222816
+Bos indicus x Bos taurus,hybrid cattle,30522
+Corythaeola cristata,great blue turaco,103954
+Limulus polyphemus,Atlantic horseshoe crab,6850
+Oxylabes madagascariensis,white-throated Oxylabes,98144
+Elysia chlorotica,eastern emerald elysia,188477
+Agrilus planipennis,emerald ash borer,224129
+Calyptomena viridis,green broadbill,135972
+Octopus bimaculoides,NA,37653
+Neodiprion lecontei,redheaded pine sawfly,441921
+Asterias rubens,European starfish,7604
+Odontomachus brunneus,NA,486640
+Acanthaster planci,crown-of-thorns starfish,133434
+Styela clava,NA,7725
+Octopus sinensis,East Asian common octopus,2607531
+Rhynchophorus ferrugineus,red palm weevil,354439
+Trichogramma pretiosum,NA,7493
+Mytilus galloprovincialis,Mediterranean mussel,29158
+Pomacea canaliculata,NA,400727
+Odontophorus gujanensis,marbled wood quail,886794
+Dermatophagoides pteronyssinus,European house dust mite,6956
+Osmia bicornis bicornis,NA,1437191
+Argiope bruennichi,NA,94029
+Ceratina calcarata,NA,156304
+Apostichopus japonicus,Japanese sea cucumber,307972
+Sarcoptes scabiei,NA,52283
+Nomia melanderi,Alkali bee,2448451
+Chelonus insularis,NA,460826
+Priapulus caudatus,NA,37621
+Phallusia mammillata,NA,59560
+Leptinotarsa decemlineata,Colorado potato beetle,7539
+Sepia pharaonis,NA,158019
+Centruroides sculpturatus,bark scorpion,218467
+Fopius arisanus,NA,64838
+Ceratosolen solmsi marchali,NA,326594
+Ceriantheomorphe brasiliensis,NA,1048506
+Linepithema humile,Argentine ant,83485
+Osmia lignaria,orchard mason bee,473952
+Capitella teleta,NA,283909
+Diachasma alloeum,NA,454923
+Megachile rotundata,alfalfa leafcutting bee,143995
+Aethina tumida,small hive beetle,116153
+Trichomalopsis sarcophagae,NA,543379
+Copidosoma floridanum,NA,29053
+Microplitis demolitor,NA,69319
+Arctia plantaginis,NA,874455
+Dimorphilus gyrociliatus,NA,2664684
+Saccoglossus kowalevskii,NA,10224
+Euroglyphus maynei,NA,6958
+Amphibalanus amphitrite,NA,1232801
+Vollenhovia emeryi,NA,411798
+Athalia rosae,coleseed sawfly,37344
+Dufourea novaeangliae,NA,178035
+Gulo gulo,wolverine,48420
+Nasonia vitripennis,jewel wasp,7425
+Oppiella nova,NA,334625
+Vespula vulgaris,NA,7454
+Ooceraea biroi,clonal raider ant,2015173
+Araneus ventricosus,NA,182803
+Belonocnema treatae,NA,1159321
+Vespula pensylvanica,western yellowjacket,30213
+Parasteatoda tepidariorum,common house spider,114398
+Hydra vulgaris,swiftwater hydra,6087
+Frieseomelitta varia,NA,561572
+Oryctes borbonicus,NA,1629725
+Pollicipes pollicipes,NA,41117
+Vespula germanica,NA,30212
+Acromyrmex echinatior,Panamanian leafcutter ant,103372
+Tribolium castaneum,red flour beetle,7070
+Daphnia pulex,common water flea,6669
+Trachymyrmex septentrionalis,NA,34720
+Cotesia congregata,NA,51543
+Formica exsecta,NA,72781
+Trachymyrmex cornetzi,NA,471704
+Anopheles gambiae str. PEST,NA,180454
+Solenopsis invicta,red fire ant,13686
+Polistes canadensis,NA,91411
+Trachymyrmex zeteki,NA,64791
+Plutella xylostella,diamondback moth,51655
+Megalopta genalis,NA,115081
+Harpegnathos saltator,Jerdon's jumping ant,610380
+Atta colombica,NA,520822
+Halyomorpha halys,brown marmorated stink bug,286706
+Atta cephalotes,NA,12957
+Dinoponera quadriceps,NA,609295
+Tenebrio molitor,yellow mealworm,7067
+Balaenoptera physalus,Fin whale,9770
+Macrostomum lignano,NA,282301
+Melipona quadrifasciata,NA,166423
+Apis cerana,Asiatic honeybee,7461
+Bombus impatiens,common eastern bumble bee,132113
+Bombus vosnesenskii,NA,207650
+Sitophilus oryzae,rice weevil,7048
+Bombus vancouverensis nearcticus,NA,2705178
+Camponotus floridanus,Florida carpenter ant,104421
+Anopheles darlingi,NA,43151
+Stegodyphus mimosarum,NA,407821
+Bombus terrestris,buff-tailed bumblebee,30195
+Eschrichtius robustus,grey whale,9764
+Varroa destructor,honeybee mite,109461
+Varroa jacobsoni,NA,62625
+Anopheles sinensis,NA,74873
+Apis florea,little honeybee,7463
+Diceros bicornis minor,NA,77932
+Monomorium pharaonis,pharaoh ant,307658
+Pseudomyrmex gracilis,NA,219809
+Vespa mandarinia,Asian giant hornet,7446
+Anopheles albimanus,NA,7167
+Eufriesea mexicana,NA,516756
+Amyelois transitella,NA,680683
+Apis dorsata,giant honeybee,7462
+Polistes dominula,European paper wasp,743375
+Apis mellifera,honey bee,7460
+Frankliniella occidentalis,western flower thrips,133901
+Pogonomyrmex barbatus,red harvester ant,144034
+Cephus cinctus,wheat stem sawfly,211228
+Stegodyphus dumicola,NA,202533
+Temnothorax longispinosus,NA,300112
+Medioppia subpectinata,NA,1979941
+Cimex lectularius,bed bug,79782
+Nicrophorus vespilloides,NA,110193
+Scopus umbretta,hamerkop,33581
+Lasius niger,NA,67767
+Temnothorax curvispinosus,NA,300111
+Eudyptes chrysocome,Rockhopper penguin,79626
+Asbolus verrucosus,NA,1661398
+Wasmannia auropunctata,little fire ant,64793
+Penaeus monodon,black tiger shrimp,6687
+Eumetopias jubatus,Steller sea lion,34886
+Habropoda laboriosa,NA,597456
+Thrips palmi,NA,161013
+Corapipo altera,White-ruffed manakin,415028
+Cyphomyrmex costatus,NA,456900
+Tyto alba,Barn owl,56313
+Folsomia candida,NA,158441
+Danaus plexippus plexippus,NA,278856
+Nylanderia fulva,NA,613905
+Daphnia magna,NA,35525
+Hyposmocoma kahamanoa,NA,1477025
+Lamprigera yunnana,NA,370605
+Flavobacteriales bacterium,NA,2021391
+Nilaparvata lugens,brown planthopper,108931
+Ostrinia furnacalis,Asian corn borer,93504
+Spodoptera frugiperda,fall armyworm,7108
+Trichoplusia ni,cabbage looper,7111
+Apis cerana cerana,NA,94128
+Tityus serrulatus,Brazilian scorpion,6887
+Spodoptera litura,NA,69820
+Cryptotermes secundus,NA,105785
+Manduca sexta,tobacco hornworm,7130
+Laodelphax striatellus,small brown planthopper,195883
+Trinorchestia longiramus,NA,1923959
+Coptotermes formosanus,Formosan subterranean termite,36987
+Diabrotica virgifera virgifera,western corn rootworm,50390
+Pachycerianthus maua,NA,2736681
+Anopheles stephensi,Asian malaria mosquito,30069
+Eudyptes robustus,Snares penguin,345251
+Helicoverpa armigera,cotton bollworm,29058
+Leptidea sinapis,NA,189913
+Papilio xuthus,Asian swallowtail,66420
+Bemisia tabaci,NA,7038
+Maniola hyperantus,ringlet,2795564
+Bombyx mandarina,wild silkworm,7092
+Bombyx mori,domestic silkworm,7091
+Ephemera danica,NA,1049336
+Eumeta japonica,NA,151549
+Anhinga rufa,African darter,317792
+Callosobruchus maculatus,cowpea weevil,64391
+Spodoptera exigua,beet armyworm,7107
+Cryomorphaceae bacterium S-15,NA,2692424
+Photinus pyralis,common eastern firefly,7054
+Culex quinquefasciatus,southern house mosquito,7176
+Anoplophora glabripennis,Asian longhorned beetle,217634
+Portunus trituberculatus,swimming crab,210409
+Pieris rapae,cabbage white,64459
+Planctomycetes bacterium,NA,2026780
+Bacteroidetes bacterium,NA,1898104
+Todarodes pacificus,Japanese flying squid,6637
+Cloeon dipterum,NA,197152
+Hyalella azteca,NA,294128
+Chilo suppressalis,striped riceborer,168631
+Darwinula stevensoni,NA,69355
+Diaphorina citri,Asian citrus psyllid,121845
+Apolygus lucorum,NA,248454
+Clunio marinus,NA,568069
+Zerene cesonia,dogface butterfly,33412
+Emiliania huxleyi CCMP1516,NA,280463
+Dendroctonus ponderosae,mountain pine beetle,77166
+Eurytemora affinis,NA,88015
+Aedes albopictus,Asian tiger mosquito,7160
+Ixodes scapularis,black-legged tick,6945
+Cinara cedri,NA,506608
+Sipha flava,yellow sugarcane aphid,143950
+Tetranychus urticae,two-spotted spider mite,32264
+Ignelater luminosus,NA,2038154
+Ramazzottius varieornatus,NA,947166
+Cyprideis torosa,NA,163714
+Onthophagus taurus,NA,166361
+Pediculus humanus corporis,human body louse,121224
+Hypsibius dujardini,NA,232323
+Heliothis virescens,tobacco budworm,7102
+Aedes aegypti,yellow fever mosquito,7159
+Vanessa tameamea,NA,334116
+Leptotrombidium deliense,NA,299467
+Blattella germanica,German cockroach,6973
+Helobdella robusta,NA,6412
+Owenweeksia sp.,NA,2024847
+Cryomorphaceae bacterium,NA,1898111
+Bradysia coprophila,NA,38358
+Dermacentor silvarum,NA,543639
+Heterololigo bleekeri,Bleeker's squid,1423826
+Lepeophtheirus salmonis,salmon louse,72036
+Crocinitomicaceae bacterium,NA,2026728
+Ctenocephalides felis,cat flea,7515
+Rhipicephalus sanguineus,brown dog tick,34632
+Pachycerianthus borealis,NA,2736680
+Neodrepanis coruscans,wattled asity,254563
+Caldithrix abyssi,NA,187145
+Symbiodinium microadriaticum,NA,2951
+Todus mexicanus,puerto rican tody,135184
+Marinilabiliales bacterium,NA,2053303
+Dinothrombium tinctorium,NA,1965070
+Tigriopus californicus,NA,6832
+Castor fiber,Eurasian beaver,10185
+Tropilaelaps mercedesae,NA,418985
+Flavobacteriia bacterium,NA,2044941
+Nymphon striatum,NA,424472
