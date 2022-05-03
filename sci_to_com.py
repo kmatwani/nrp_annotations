@@ -16,33 +16,34 @@ seq_file = open(sys.argv[2], 'r')
 input = 1 
 
 def sci_to_com(desc_file, seq_file):
-    # Read csv file and open a list to save headers in 
+	
+    	# Read csv file and open a list to save headers in 
 	reader = csv.reader(desc_file)
 	headerlist = []
-    headerlist2 = []
-    seqlist = []
-    #use rows to create a dictionary (key will be the scientific name, value common name). 
-
-    com_dict = {}
-
-    for row in reader:
-        com_dict[row[0]] = row[1]
+	headerlist2 = []
+	seqlist = []
     
-    for line in seq_file:
-        if line.startswith('>'):
-            headerlist.append(line)
-        else:
-            seqlist.append(line)
+	#use rows to create a dictionary (key will be the scientific name, value common name). 
+	com_dict = {}
 
-    for header in headerlist:
-        first_header = header.split('[')[0]
-        sci_name = header.split('[')[1]
-        sci_name2 = header.split(']')[0]
-        if sci_name2 in com_dict.keys():
-            headerlist2.append('first_header' + '[' + str(com_dict[sci_name2]) + ']')
-        else:
-            headerlist.append(header)
-        print(headerlist2)
+    	for row in reader:
+        	com_dict[row[0]] = row[1]
+    
+    	for line in seq_file:
+        	if line.startswith('>'):
+            		headerlist.append(line)
+        	else:
+            		seqlist.append(line)
+
+    	for header in headerlist:
+        	first_header = header.split('[')[0]
+        	sci_name = header.split('[')[1]
+        	sci_name2 = header.split(']')[0]
+        	if sci_name2 in com_dict.keys():
+            		headerlist2.append('first_header' + '[' + str(com_dict[sci_name2]) + ']')
+        	else:
+            		headerlist.append(header)
+	print(headerlist2)
 
 sci_to_com(x, y)
 
