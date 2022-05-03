@@ -25,9 +25,9 @@ def sci_to_com(desc_file, seq_file):
     
 	#use rows to create a dictionary (key will be the scientific name, value common name). 
 	com_dict = {}
-
-    	for row in reader:
-        	com_dict[row[0]] = row[1]
+	
+	for row in reader:
+		com_dict[row[0]] = row[1]
     
     	for line in seq_file:
         	if line.startswith('>'):
