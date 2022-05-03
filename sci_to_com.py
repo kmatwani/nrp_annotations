@@ -6,20 +6,46 @@ Created on Thu Feb 11 20:10:59 2021
 """
 
 # open and read file contents 
+import sys
+from collections import defaultdict
 import csv
-filename = open('vegfa_desc.csv', 'r')
-reader = csv.reader(filename)
-f3 = open('desc_dict.txt', 'w')
-#use rows to create a dictionary (key will be the scientific name, 
-# value common name). 
 
-desc2 = {}
+# open and read file contents
+desc_file = open(sys.argv[1], 'r')
+seq_file = open(sys.argv[2], 'r')
+input = 1 
 
-for row in reader:
-    desc2[row[0]] = row[1]
-    f3.write(str(desc2))
+def sci_to_com(desc_file, seq_file):
+    # Read csv file and open a list to save headers in 
+	reader = csv.reader(desc_file)
+	headerlist = []
+    headerlist2 = []
+    seqlist = []
+    #use rows to create a dictionary (key will be the scientific name, value common name). 
+
+    com_dict = {}
+
+    for row in reader:
+        com_dict[row[0]] = row[1]
     
-filename.close()
+    for line in seq_file:
+        if line.startswith('>'):
+            headerlist.append(line)
+        else:
+            seqlist.append(line)
+
+    for header in headerlist:
+        first_header = header.split('[')[0]
+        sci_name = header.split('[')[1]
+        sci_name2 = header.split(']')[0]
+        if sci_name2 in com_dict.keys():
+            headerlist2.append('first_header' + '[' + str(com_dict[sci_name2]) + ']')
+        else:
+            headerlist.append(header)
+        print(headerlist2)
+
+sci_to_com(x, y)
+
 
 TestFile = "vegfa_ex78_1000ish.txt"
 f1 = open(TestFile, "r")
