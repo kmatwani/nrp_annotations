@@ -25,24 +25,22 @@ def sci_to_com(desc_file, seq_file):
     
 	#use rows to create a dictionary (key will be the scientific name, value common name). 
 	com_dict = {}
-	
 	for row in reader:
 		com_dict[row[0]] = row[1]
-    
-    	for line in seq_file:
-        	if line.startswith('>'):
-            		headerlist.append(line)
-        	else:
-            		seqlist.append(line)
+  for line in seq_file:
+        if line.startswith('>'):
+            headerlist.append(line)
+        else:
+            seqlist.append(line)
 
-    	for header in headerlist:
-        	first_header = header.split('[')[0]
-        	sci_name = header.split('[')[1]
-        	sci_name2 = header.split(']')[0]
-        	if sci_name2 in com_dict.keys():
-            		headerlist2.append('first_header' + '[' + str(com_dict[sci_name2]) + ']')
-        	else:
-            		headerlist.append(header)
+    for header in headerlist:
+        first_header = header.split('[')[0]
+        sci_name = header.split('[')[1]
+        sci_name2 = header.split(']')[0]
+        if sci_name2 in com_dict.keys():
+            headerlist2.append('first_header' + '[' + str(com_dict[sci_name2]) + ']')
+        else:
+            headerlist.append(header)
 	print(headerlist2)
 
 sci_to_com(x, y)
