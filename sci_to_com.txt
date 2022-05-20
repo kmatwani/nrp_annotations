@@ -1,0 +1,63 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Feb 11 20:10:59 2021
+
+@author: kmatw
+"""
+
+# open and read file contents 
+import sys
+from collections import defaultdict
+import csv
+
+# open and read file contents
+desc = open(sys.argv[1], 'r')
+seq = open(sys.argv[2], 'r')
+input = 1 
+
+def sci_to_com(desc_file, seq_file):
+    	# Read csv file and open a list to save headers in 
+	reader = csv.reader(desc_file)
+	headerlist = []
+	headerlist2 = []
+	seqlist = []
+    
+	#use rows to create a dictionary (key will be the scientific name, value common name). 
+	com_dict = {}
+	for row in reader:
+		com_dict[row[0]] = row[1]
+	for line in seq_file:
+		if line.startswith('>'):
+			headerlist.append(line)
+		else:
+			seqlist.append(line)
+	for header in headerlist:
+		first_header = header.split('[')[0]
+		sci_name = header.split('[')[1]
+		sci_name2 = sci_name.split(']')[0]
+		if sci_name2 in com_dict.keys():
+			headerlist2.append(first_header + '[' + str(com_dict[sci_name2]) + ']')
+		else:
+			headerlist2.append(header)
+	return headerlist2
+sci_to_com(desc, seq)
+
+seq = open(sys.argv[2], 'r')
+def fasta_dict(fasta_file): 
+	seq_dict = defaultdict(str)
+	for line in fasta_file:
+		if line.startswith('>'):
+			line_id = line.split()[0]
+			key = line_id.strip('\n')
+
+		else:
+			seq_dict[key] += line.strip('\n')
+	return seq_dict
+
+fasta_dict(seq)
+
+
+
+
+
+
