@@ -1,8 +1,25 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Feb 11 20:10:59 2021
+Program:	new_fasta
+Filename:	sci_to_com.txt
 
-@author: kmatw
+Created on:	Thu Feb 11 2021
+Edited on:	Mon May 23 2022
+Function:	Changes the scientfic name in a header to the common one
+
+Author:	Khushboo Matwani
+
+Description:
+Creates a dictionary from a csv file containing scientific and common names of species
+Uses it to change the species name in a header to a common one
+Combines the new headers and the sequence information to create a new FASTA file
+
+Inputs:
+Descriptions file (which can be obtained from the BLAST output). 
+The assumption is that the scientific name is column 1 and common name is column 2.
+FASTA file 
+
 """
 
 # open and read file contents 
@@ -13,48 +30,77 @@ import csv
 # open and read file contents
 desc = open(sys.argv[1], 'r')
 seq = open(sys.argv[2], 'r')
-input = 1 
 
+# function to convert the scientific name in the header to the common one
 def sci_to_com(desc_file, seq_file):
-    	# Read csv file and open a list to save headers in 
+    	# Read csv file and open lists to save headers in 
 	reader = csv.reader(desc_file)
 	headerlist = []
 	headerlist2 = []
 	seqlist = []
     
-	#use rows to create a dictionary (key will be the scientific name, value common name). 
+	#use description file rows to create a dictionary (key will be the scientific name, value common name). 
 	com_dict = {}
 	for row in reader:
 		com_dict[row[0]] = row[1]
 	for line in seq_file:
+		# selecting headers from FASTA and adding to first list
 		if line.startswith('>'):
 			headerlist.append(line)
+		# sequence data added in redundant list  
 		else:
 			seqlist.append(line)
 	for header in headerlist:
+		#split the part of the header with the id and protein information
 		first_header = header.split('[')[0]
+		# fetch scientific name to compare with dictionary created above
 		sci_name = header.split('[')[1]
 		sci_name2 = sci_name.split(']')[0]
+		# header with common name added to new list if the scientific name present in dictionary 
 		if sci_name2 in com_dict.keys():
 			headerlist2.append(first_header + '[' + str(com_dict[sci_name2]) + ']')
+		# if not present in dictionary, include original header in new list 
 		else:
 			headerlist2.append(header)
 	return headerlist2
-sci_to_com(desc, seq)
 
-seq = open(sys.argv[2], 'r')
+# file to convert fasta file into a dictionary with key being the id and sequence the value 
 def fasta_dict(fasta_file): 
 	seq_dict = defaultdict(str)
 	for line in fasta_file:
+		#selecting the header
 		if line.startswith('>'):
+			#splitting it to only have the id as key 
 			line_id = line.split()[0]
 			key = line_id.strip('\n')
 
 		else:
+			# it will add the sequence data as a value for the key till the next header
 			seq_dict[key] += line.strip('\n')
 	return seq_dict
 
-fasta_dict(seq)
+#recalling sequence file a second time because it will be used by fasta_dict function
+seq2 = open(sys.argv[2], 'r')
+
+# function calls previous 2 to make a new fasta file with updated header information 
+def new_fasta(new_headers, sequencedict):
+
+	# calling the two functions
+	new_headers = sci_to_com(desc, seq)
+	sequencedict = fasta_dict(seq2)
+
+	for line in new_headers:
+		# splitting the updated headers to identify the sequence from the fasta_dict dictionary 
+		id_split = line.split()[0]
+		if id_split in sequencedict.keys():
+			# prints the header and sequence information in a fasta format 
+			print(line + '\n' + str(sequencedict[id_split]))
+		else:
+			print('Error')
+
+		
+		 
+new_fasta('', '')
 
 
 
