@@ -58,7 +58,7 @@ def sci_to_com(desc_file, seq_file):
 		sci_name2 = sci_name.split(']')[0]
 		# header with common name added to new list if the scientific name present in dictionary 
 		if sci_name2 in com_dict.keys():
-			headerlist2.append(first_header + '[' + str(com_dict[sci_name2]) + ']')
+			headerlist2.append(first_header + '[' + str(com_dict[sci_name2]) + ']' + '\n')
 		# if not present in dictionary, include original header in new list 
 		else:
 			headerlist2.append(header)
@@ -94,7 +94,7 @@ def new_fasta(new_headers, sequencedict):
 		id_split = line.split()[0]
 		if id_split in sequencedict.keys():
 			# prints the header and sequence information in a fasta format 
-			print(line + '\n' + str(sequencedict[id_split]))
+			print(line + str(sequencedict[id_split]))
 		else:
 			print('Error')
 
