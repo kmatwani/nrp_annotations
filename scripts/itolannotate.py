@@ -1,16 +1,11 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 30 19:48:37 2021
 
-@author: kmatw
-"""
-
-#!/usr/bin/python3
 # ----------------------------------------------------------------------
 # Simple program to create an iTol colouring annotation file based on
 # the presence of the words cyt, MAM and a1b1 in the FASTA header
 #
 # 26.03.21 Original By: ACRM
+# 30.03.21 Edited by: Khushboo Matwani
+# 27.06.22 Annotations added 
 # ----------------------------------------------------------------------
 import sys
 import re
@@ -72,14 +67,11 @@ fasta_file = sys.argv[1];
 # Print the iTol header
 print_header()
 
-##removing additional characters:
-
-
-
 # Process each FASTA header line
 with open(fasta_file, 'r') as infile:
     for line in infile:
         if line.startswith('>'):
+            # any punctuation or space replaced with a dash because that is the header output from ng phylogeny server
             line_dash = line.replace(':', '-').replace(',', '-').replace('.', '-').replace('[', '-').replace(']', '-').replace('(', '-').replace(')', '').replace(' ', '-').replace(';', '')
             line_final = line_dash.replace('--', '-')
             line_strip = line_final.rstrip()
